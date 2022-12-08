@@ -11,6 +11,8 @@ body {
   background: #345;
 }
 
-h1 {
-  color: #ddd;
-} 
+#root {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
